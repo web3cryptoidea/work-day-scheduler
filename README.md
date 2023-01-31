@@ -14,14 +14,9 @@ This webpage is deployed  at live URL, you can access it using: https://web3cryp
 
 It looks like this:
 
- ![Start quiz](assets/images/start-quiz.png)
+![Start quiz](assets/images/image1.png)
 
- ![Highscores](assets/images/highscores.png)
-
- ![Example of question](assets/images/questions-example.png)
-
- ![End of test sreen](assets/images/end-screen.png)
- 
+  
 
 
  
