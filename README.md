@@ -14,12 +14,9 @@ This webpage is deployed  at live URL, you can access it using: https://web3cryp
 
 It looks like this:
 
-![Start quiz](assets/images/image1.png)
-
-  
-
-
+![Screenshot](assets/images/image1.png)
  
+
 ## Credits
 
 - Moment JS Library [Moment.js](https://momentjs.com/) 
